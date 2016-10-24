@@ -1,3 +1,3 @@
 # Calculadora 
-Esta es una simple calculadora, con unas cuantas funciones, aún en desarrollo
+Esta es una calculadora simple, con unas cuantas funciones, aún en desarrollo
 
